@@ -1,4 +1,4 @@
-## Hi there, this is kleidione Freitas
+## Hi there
 
 <div>
   <a href="https://github.com/kleidione">
