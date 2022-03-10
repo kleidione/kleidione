@@ -1,4 +1,3 @@
-## 🐙 🐙 🐙 🐙
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kleidione&color=blue&style=flat&label=PROFILE+VIEWS" alt="kleidione" /> </p>
 <div>
