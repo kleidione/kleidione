@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/kleidione">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kleidione&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleidione&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kleidione&count_private=true&include_all_commits=true&show_icons=true&theme=ocean_dark&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kleidione&theme=ocean_dark&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
