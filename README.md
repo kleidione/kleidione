@@ -19,6 +19,6 @@
 </div>
 
 <div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> & <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> & <a href="https://github.com/antonkomarev/github-profile-views-counter">antonkomarev</a></p>
+  <p>Made with :heart: and JavaScript.</p>
+  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> & <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> & <a href="https://github.com/antonkomarev/github-profile-views-counter">antonkomarev</a></p>
 </div>
