@@ -1,5 +1,10 @@
 <div>
-
+<div align="center">  
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=kleidione&style=for-the-badge&color=blueviolet">
+  </a>  
+</div>
+ 
 <div align="center">
   <a href="https://github.com/kleidione">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=kleidione&count_private=true&include_all_commits=true&show_icons=true&theme=ocean_dark&hide_border=false&show_owner=true"/>
