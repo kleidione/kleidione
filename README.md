@@ -13,12 +13,6 @@
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
   <p>Made with :heart: and JavaScript.</p>
-  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> & <a href="https://github.com/rafaballerini">Rafaella Ballerini</a> & <a href="https://github.com/antonkomarev/github-profile-views-counter">antonkomarev</a></p>
+  <p>Credits: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> & <a href="https://github.com/antonkomarev/github-profile-views-counter">antonkomarev</a></p>
 </div>
