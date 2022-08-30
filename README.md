@@ -14,5 +14,5 @@
 <a href="https://t.me/kleidione/">
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=round" width="150" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=futura&color=%23F007F7&size=80&duration=6000&center=true&vCenter=true&width=1000&height=200&lines=Thanks+For+Visiting%F0%9F%91%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=futura&color=%23F007F7&size=80&duration=6000&center=true&vCenter=true&width=1000&height=200&lines=Thanks+For+Visiting)](https://git.io/typing-svg)
 
